@@ -1,5 +1,1 @@
-hello this is our first lecture!
-
-this will be on our second commit.
-
-this is our third commit.
+I am creating a new commit with meaningful message.
